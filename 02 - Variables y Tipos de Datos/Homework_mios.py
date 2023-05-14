@@ -19,7 +19,8 @@ variable3 = 15 + 5j
 print(type(variable3))
 
 #7) Crear una variable que contenga el valor del número Pi redondeado a 4 decimales
-
+pi = 3.1416
+print(round(pi,4))
 #8) Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
 variable4 = 'True'
 variable5 = True
